@@ -45,7 +45,7 @@ a:hover{
 }
 
 .ground{
-	background: url('../img/ground.png') no-repeat center 0;
+	background: url('../img/ground.PNG') no-repeat center 0;
 	position: absolute;
 	bottom: 7px;
 	left: 0;
@@ -58,7 +58,7 @@ a:hover{
 	top: 50%;	/* OR bottom: 220px*/
 	left: 50%;
 	margin-left: -180px;
-	background: url('../img/nervous.png') no-repeat 0 0;
+	background: url('../img/nervous.PNG') no-repeat 0 0;
 	width: 223px;
 	height: 100px;
 	display: none;
@@ -69,7 +69,7 @@ a:hover{
 	top: 60%;	/* OR bottom: 40%*/
 	left: 55%;	/* OR right: 35%*/
 	margin-right: -150px;
-	background: url('../img/cant-wait.png') no-repeat 0 0;
+	background: url('../img/cant-wait.PNG') no-repeat 0 0;
 	width: 206px;
 	height: 65px;
 	display: none;
@@ -90,7 +90,7 @@ a:hover{
 	width: 143px;
 	height: 272px;
 	margin-left: -71.5px;
-	background: url('../img/rocket.png') no-repeat 0 0;
+	background: url('../img/rocket.PNG') no-repeat 0 0;
 	transition: bottom 3000ms;
 }
 
@@ -101,16 +101,16 @@ body.body-state1 .rocket{
 
 /* rocket background image */
 body.body-state2 .rocket{
-	background-image: url('../img/rocket2.gif');
+	background-image: url('../img/rocket2.GIF');
 }
 
 body.body-state3 .rocket,
 body.body-state4 .rocket{
-	background-image: url('../img/rocket3.gif');
+	background-image: url('../img/rocket3.GIF');
 }
 
 body.body-state5 .rocket{
-	background-image: url('../img/boommm.png');
+	background-image: url('../img/boommm.PNG');
 	position: absolute;
 	/*left: 50%;
 	bottom: -15px;*/
