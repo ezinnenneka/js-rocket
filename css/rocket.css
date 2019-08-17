@@ -90,7 +90,7 @@ a:hover{
 	width: 143px;
 	height: 272px;
 	margin-left: -71.5px;
-	background: url('../img/rocket.png') no-repeat 0 0;
+	background: url('../img/rocket.PNG') no-repeat 0 0;
 	transition: bottom 3000ms;
 }
 
